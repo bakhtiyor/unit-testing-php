@@ -1,0 +1,14 @@
+{
+    "name": "bakhtiyor/unit-testing-php",
+    "description": "Unit testing in PHP",
+    "type": "project",
+    "authors": [
+        {
+            "name": "Bakhtiyor Bahritidinov",
+            "email": "bakhtiyor.bahriddinov@gmail.com"
+        }
+    ],
+    "require": {
+        "phpunit/phpunit": "^9.5"
+    }
+}
